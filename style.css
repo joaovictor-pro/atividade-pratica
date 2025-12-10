@@ -98,11 +98,13 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 15px;
+    
 }
 
 table thead {
     background-color: #000000;
     color: white;
+    
 }
 
 table th,
